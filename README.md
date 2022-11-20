@@ -12,6 +12,7 @@ https://www.danisanga.xyz/
 :bell: How to reach me:
 
 - https://www.linkedin.com/in/danielsanchezgracia/
+- https://www.danisanga.xyz/
 
 ⚡ Hobbies:
 
