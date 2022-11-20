@@ -8,7 +8,6 @@ https://www.danisanga.xyz/
 
 - Software architecture patterns
 - Best practices
-- Javascript technologies
 
 :bell: How to reach me:
 
