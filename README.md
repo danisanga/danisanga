@@ -15,5 +15,5 @@
 ⚡ Hobbies:
 
 - Motorcycles 🏍️
-- Arts 🎨
+- Building custom keyboards ⌨️
 - My cat 🐱
