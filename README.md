@@ -2,11 +2,6 @@
 
 ## About me 😄
 
-🌱 I’m currently learning:
-
-- Software architecture patterns
-- Best practices
-
 :bell: How to reach me:
 
 - https://www.linkedin.com/in/danielsanchezgracia/
